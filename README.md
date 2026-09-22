@@ -1,3 +1,4 @@
-# kooli-sookla
-# näitab kooli menüüd
-#Ivan Sotnikov
+kooli-sookla
+näitab kooli menüüd
+Vaata ka kasutusjuhud.md
+Ivan Sotnikov
